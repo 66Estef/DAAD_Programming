@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\bin\Debug\net6.0\ETExamen5.exe
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\bin\Debug\net6.0\ETExamen5.deps.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\bin\Debug\net6.0\ETExamen5.runtimeconfig.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\bin\Debug\net6.0\ETExamen5.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\bin\Debug\net6.0\ETExamen5.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.AssemblyInfo.cs
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\refint\ETExamen5.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ETExamen5.genruntimeconfig.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\ETExamen5\ETExamen5\obj\Debug\net6.0\ref\ETExamen5.dll
