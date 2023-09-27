@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//GARCIA_ESTEFANNIA_250422
+//GARCIA_ZEPEDA_250422
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Exámen Final 1: Matrices");
 
