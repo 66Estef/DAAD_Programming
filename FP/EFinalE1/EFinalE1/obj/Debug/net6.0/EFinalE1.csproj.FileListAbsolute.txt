@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\bin\Debug\net6.0\EFinalE1.exe
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\bin\Debug\net6.0\EFinalE1.deps.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\bin\Debug\net6.0\EFinalE1.runtimeconfig.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\bin\Debug\net6.0\EFinalE1.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\bin\Debug\net6.0\EFinalE1.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.AssemblyInfo.cs
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\refint\EFinalE1.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\EFinalE1.genruntimeconfig.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\EFinalE1\EFinalE1\obj\Debug\net6.0\ref\EFinalE1.dll
