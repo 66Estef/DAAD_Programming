@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\bin\Debug\net6.0\Practica1A.exe
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\bin\Debug\net6.0\Practica1A.deps.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\bin\Debug\net6.0\Practica1A.runtimeconfig.json
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\bin\Debug\net6.0\Practica1A.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\bin\Debug\net6.0\Practica1A.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.AssemblyInfo.cs
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\refint\Practica1A.dll
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.pdb
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\Practica1A.genruntimeconfig.cache
+C:\Users\usuario\Desktop\GitHub Repositorios\DAAD_Programming\FP\Practica1A\Practica1A\obj\Debug\net6.0\ref\Practica1A.dll
