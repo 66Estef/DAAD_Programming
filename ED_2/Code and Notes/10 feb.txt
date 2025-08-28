@@ -1,0 +1,14 @@
+1er juego:
+Todo rafico, sin Consola, UI, compu genera numero y adivinamos que numero es
+
+private GenerarNumero()
+{
+  numeroRand = Random.Range(0,10) *num inclusivo:0, num exclusivo:5, contara de 0 a 9, sino seria 0 - 11 para que cuente a 10
+}
+
+private void Check()
+{
+  numeroUser = 
+}
+
+UNITY - Canvas, Input TMP, Panel: puedes agregar cosas, en rect transform cuadro podemos decirle como se comportara. Inputfield se encarga de muchas opciones
