@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 204a229be7788f34cb6214d9bdfd1cce, type: 3}
+  m_Name: New Dialogos Base
+  m_EditorClassIdentifier: 
+  nombrePersonaje: Pete
+  numDialogos: 10
+  dialogos:
+  - "\xA1Hola! soy Pete."
+  - "\xBFQuieres jugar conmigo a los piratas?"
+  - "Yeii \xA1\xA1vamos a la playa!!"
+  - "Jah!  - \xA1Toma eso! - \xA1Ah!"
+  - "Mira \xBFqu\xE9 ser\xE1 eso?"
+  - "Wow, un cofre de tesoros. \xA1Increible!"
+  - "Mmm..\xA1agh!  Esta cerrado >:("
+  - "Mira, hay un mapa m\xE1gico alado"
+  - Dice que necesitamos la llave
+  - "\xBFMe ayudas a buscarla? :)"
