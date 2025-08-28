@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 6d197399db69f334ca5d874290295d62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EsqCorre3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2578
+        width: 805
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3fbf777160924a87f90ab27fe6166
+      internalID: -1430944476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqCorre2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2608
+        width: 693
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6bc151cc0184645a8b888465a73892
+      internalID: 1270894653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqCorre1
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2608
+        width: 706
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71481c5c9072580478e0f001d61a7226
+      internalID: 1157048180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_3
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2394
+        width: 371
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255f90966439844fb81155021e7ab7b
+      internalID: 702710265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_4
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2608
+        width: 698
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a53c882f9187f4988c05de7e62a95e
+      internalID: -936293208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_5
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2266
+        width: 463
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5277315, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87487ea8b198cbb449363f09e34f7026
+      internalID: 1949568809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_6
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2648
+        width: 5
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4173242a9a05249b08c6f6d4700875
+      internalID: -1582892966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2069
+        width: 421
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6479adeae72640b728d1282df4ea9
+      internalID: -1089287878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2100
+        width: 149
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cd269a2da8858459afe5ccbd444dce
+      internalID: -653387880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2129
+        width: 103
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa390db9c8a5a41acbc24ef48ec267
+      internalID: 1384923489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_10
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2129
+        width: 167
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36a7d83b5d268488dbd0fb28209e7e
+      internalID: -776108962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_11
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2095
+        width: 186
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ae57d8f1ccb341a6bb754d709adfb
+      internalID: 1505890661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale10
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1571
+        width: 945
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa271ef9a5831da458b7511ff0371ea7
+      internalID: -1756925450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale7
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1691
+        width: 670
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586db1ac8bba98a458f7a2319aba9a73
+      internalID: 2132285833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1791
+        width: 471
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951f2d45caee39c42ae56c9971de3e9c
+      internalID: 1493692892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_15
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2047
+        width: 84
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5701624, y: 0.42746127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c8df5a6c5e6843adb6557d472ef09
+      internalID: 76657712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale4
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1782
+        width: 462
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca7ee3c532954429f4ebc3a8df9af8
+      internalID: 1986297943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_17
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1542
+        width: 604
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc093c535c814d45aaf05a485e5df62
+      internalID: -1840236414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1525
+        width: 398
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae30ec07217db84c841f333add5df92
+      internalID: 29144058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1491
+        width: 139
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5055f426b156be4d8751a8da61ff9f6
+      internalID: -788688740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1470
+        width: 15
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0c3f6dcf6f634eaa0fabda358a7dd
+      internalID: -1235151238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1502
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f00a4f76e419e4aaaa110a34e5238b
+      internalID: -130767348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 752
+        width: 1051
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e20f7149e5bcd4d954a9f304edb79f
+      internalID: 980276003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1230
+        width: 347
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5ae6b160abbf48ac65ff7456b3262
+      internalID: -269130706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1213
+        width: 330
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92475038e3297584fbb150ca7f6af5f6
+      internalID: -1941700953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 969
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b883f4947a484f9440ef7d2d86d53
+      internalID: -1670216796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_26
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 935
+        width: 1
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcc576f4cc46747a91117bee490fb6
+      internalID: 1771225121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_27
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 965
+        width: 63
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5905b0c812a64f9aa396b3391ad49
+      internalID: 1014517146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_28
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1248
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237032215a8a7d64eb094ca358df1d8f
+      internalID: 824309180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale11
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 343
+        width: 1083
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19c8af4aae71a4abecd96da69d14e9
+      internalID: 1626010464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_30
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 574
+        width: 604
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0807dc2e51ed27e4a9b3a3558beeadc3
+      internalID: -902433481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_31
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1013
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cd4b7847b6ad4cbb00ab218f86880
+      internalID: 1952625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 183
+        width: 961
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eaf42189995d84fa4f9ad8848ffe82
+      internalID: -1618040821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_33
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 98
+        width: 602
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d48ae373b09f444b4a931abdf7ec51
+      internalID: -112990146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_34
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 526
+        width: 96
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590c2349007c41c4c913c439034bd182
+      internalID: -1563537795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_35
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 584
+        width: 95
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d5a7dd25785d469f334ded7b1e656
+      internalID: 739919201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale5
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 96
+        width: 475
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e4aa98bd4c834d893e24b876684fe
+      internalID: 1040630595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_37
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 688
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb51f46ab23f5489f2ad0329659085
+      internalID: 1435790761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_38
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 468
+        width: 12
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d18cfe312ef04e935c486821db0a3
+      internalID: -421801297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_39
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 383
+        width: 3
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55da275398a9884cb67e553cc65ec9a
+      internalID: 1678177260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_40
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 263
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c5f99a7cee0f419e5064b32b00902
+      internalID: 64542384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqSale6
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 89
+        width: 646
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947438ed2a3ccd4bae304683e590d72
+      internalID: -1861403351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_0
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 746
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2447b781ced94a83682f208bb12e5
+      internalID: -844425869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharEne1_1
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 729
+        width: 244
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f393944169534cb2c5d7ae7e456a9
+      internalID: -1631631747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2971fa5beee90ac43b73e98e296e1e79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CharEne1_27: 1014517146
+      EsqSale11: 1626010464
+      CharEne1_18: 29144058
+      CharEne1_33: -112990146
+      CharEne1_25: -1670216796
+      EsqSale3: 1493692892
+      EsqSale4: 1986297943
+      CharEne1_11: 1505890661
+      EsqSale10: -1756925450
+      EsqSale8: -1618040821
+      CharEne1_17: -1840236414
+      CharEne1_9: 1384923489
+      CharEne1_31: 1952625605
+      CharEne1_6: -1582892966
+      CharEne1_8: -653387880
+      CharEne1_26: 1771225121
+      EsqSale9: 980276003
+      CharEne1_7: -1089287878
+      EsqSale1: -269130706
+      CharEne1_19: -788688740
+      CharEne1_0: -844425869
+      EsqSale6: -1861403351
+      CharEne1_39: 1678177260
+      CharEne1_20: -1235151238
+      CharEne1_28: 824309180
+      EsqSale5: 1040630595
+      EsqSale2: -1941700953
+      CharEne1_5: 1949568809
+      CharEne1_37: 1435790761
+      CharEne1_34: -1563537795
+      CharEne1_15: 76657712
+      EsqCorre3: -1430944476
+      EsqCorre2: 1270894653
+      CharEne1_35: 739919201
+      CharEne1_3: 702710265
+      CharEne1_38: -421801297
+      EsqCorre1: 1157048180
+      CharEne1_10: -776108962
+      EsqSale7: 2132285833
+      CharEne1_40: 64542384
+      CharEne1_21: -130767348
+      CharEne1_30: -902433481
+      CharEne1_4: -936293208
+      CharEne1_1: -1631631747
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
