@@ -1,0 +1,23 @@
+//EJERCICIO1
+    public int numero = 0;
+    
+    // Start is called before the first frame update
+    void Start()
+    {
+        if (numero % 2 == 0)
+            UnityEngine.Debug.Log("Es par");
+        else
+            UnityEngine.Debug.Log("Es impar");
+    }
+
+
+
+    //ejercicio4
+   public float ex1 = 10;
+    public float ex2 = 0;
+    public float ex3 = 5;
+    // Start is called before the first frame update
+    void Start()
+    {
+        UnityEngine.Debug.Log((ex1 + ex2 + ex3) / 3);
+    }

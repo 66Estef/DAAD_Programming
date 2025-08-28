@@ -1,0 +1,78 @@
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using UnityEngine;
+
+public class Poker : MonoBehaviour
+{
+    List<int> TuJuego = new List<int>();
+    public int[] numCartas = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    public string[] nombreCarta = { "Corazon", "Trebol", "Diamante", "Espada" };
+    private int U, O;
+    private int Suma;
+
+    //CONSOLA
+    List<int> JuegoPC = new List<int>();
+    private int[] NC = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    private string[] nc = { "Corazon", "Trebol", "Diamante", "Espada" };
+    private int m, b;
+    private int t;
+
+    // Start is called before the first frame update
+    void Start() //Cambiar por un privado y correr al presionar otro boton
+    {
+        //JUGADOR
+        Debug.Log("Este es tu juego:");
+        for (int i = 0; i < 5; i++)
+        {
+            U = Random.Range(0, numCartas.Length);
+            O = Random.Range(0, nombreCarta.Length);
+            
+            Debug.Log(numCartas[U] + " " + nombreCarta[O]);
+
+            TuJuego.Add(numCartas[U]);
+        }
+
+    }
+
+    private void GamePC()
+    {
+        Debug.Log("Juego del oponente");
+        for (int i = 0; i < 5; i++)
+        {
+            m = Random.Range(0, NC.Length);
+            b = Random.Range(0, nc.Length);
+
+            JuegoPC.Add(NC[m]);
+        }
+    }
+    public void Jugar()
+    {
+        GamePC();
+        //SUMA JUGADOR
+        foreach (var item in TuJuego)
+        {
+            Suma += item;
+        }
+       
+        //SUMA PC
+        foreach (var ITEM in JuegoPC)
+        {
+            t += ITEM;
+        }
+
+        if (Suma > t)
+        {
+            Debug.Log("Tus puntos son: " + Suma);
+            Debug.Log("GANASTE EL JUEGO");
+        }
+
+        if(t > Suma)
+        {
+            Debug.Log("GANO TU OPONENTE" + ":" + t);
+        }
+    }
+    
+
+
+}

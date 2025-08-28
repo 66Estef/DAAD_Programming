@@ -1,0 +1,19 @@
+private int Num;
+    private uint n;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        for (Num = 0; Num <= 30; Num += 2) 
+        {
+                UnityEngine.Debug.Log("Son números par");
+                UnityEngine.Debug.Log(Num);
+
+        }
+
+        for(n = 101; n >= 81; n-=2)
+        {
+            UnityEngine.Debug.Log("Son numeros impares");
+            UnityEngine.Debug.Log(-n);
+        }
+    }

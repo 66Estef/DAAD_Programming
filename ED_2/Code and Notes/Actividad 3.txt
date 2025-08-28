@@ -1,0 +1,45 @@
+Jueves 3/noviembre/2022
+// Ejercicio 1
+public int numero;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        for (numero = 1; numero <= 5; numero++)
+        {
+            UnityEngine.Debug.Log(numero);
+            UnityEngine.Debug.Log(-numero);
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+// Ejercicio 2
+ public int n;
+    public int nt;
+    public int nf;
+
+    // Start is called before the first frame update
+    
+    void Start()
+    {
+    for (int i = 1; i <= n; i++)
+    {
+        UnityEngine.Debug.Log(i+" "+(-i));
+    }
+
+        for (int i = 0; i <= nf; i++)
+        {
+            UnityEngine.Debug.Log(nt *i);
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
